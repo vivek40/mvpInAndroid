@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">T2SAssignment</string>
+
+    <string name="open_now">Open Now</string>
+    <string name="close_now">Closed Now</string>
+
+    <string name="action_search">Search</string>
+    <string name="internet_check">Please check your internet connectivity !!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
